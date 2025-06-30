@@ -105,3 +105,11 @@ By exploring **Netflix user behavior**, this project showcases the power of **da
 For a detailed walkthrough of the analysis, refer to the **Jupyter Notebook** in the repository.
 
 For any questions or feedback, please feel free to reach out.
+
+
+### 🙋‍♂️ Author
+
+**Vamshi K**
+*Aspiring Data Scientist*
+📫 Reach me on [LinkedIn](https://www.linkedin.com)
+
